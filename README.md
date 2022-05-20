@@ -1,2 +1,2 @@
-# PDL-Search2
+# pharm-pdl-search
 New test branch
